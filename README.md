@@ -9,3 +9,5 @@ The copy is focused on the services already surfaced publicly:
 - Related general contracting and project planning
 
 The homepage is written to feel customer-ready for a real mockup and outreach send, with clearer local-service wording, a simple quote path, and FAQ-style copy for homeowners comparing options.
+
+Public photos on the homepage were downloaded from Orange County Construction's own public website image gallery and saved locally in `assets/photos/` so future edits can reuse them without re-hunting the URLs.
