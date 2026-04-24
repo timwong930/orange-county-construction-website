@@ -1,19 +1,11 @@
-# Orange County Construction website draft
+# Orange County Construction website
 
-## Business summary
-- Location: Anaheim, Orange County, CA
-- Public website/profile: https://www.facebook.com/OrangeCountyConstruction/
-- Service focus: ADUs & JADUs, Garage conversions, Home remodeling and related local work
+This repo contains a simple single-page site for Orange County Construction in Anaheim, Orange County, CA.
 
-## Why this is a good opportunity
-- The public footprint is mostly social. A real site should explain the ADU / JADU process, show project types, and make it easy for homeowners to request a walkthrough without hunting through a Facebook page.
-- Public presence is thin or generic compared with the service area.
-- There is room for a clearer local SEO structure, more trust signals, and a better mobile quote flow.
+The copy is focused on the services already surfaced publicly:
+- ADUs & JADUs
+- Garage conversions
+- Home remodeling
+- Related general contracting and project planning
 
-## Suggested outreach / redesign angle
-- Lead with a cleaner homepage, clearer service sections, and a stronger tap-to-call or quote path.
-- Add project photos, FAQs, service-area copy, and testimonials/reviews if available.
-- Keep the copy tightly focused on the jobs customers actually search for.
-
-## Starter site in this repo
-This repo includes a simple responsive static site with a tailored hero, services grid, service-area section, and contact CTA.
+The homepage is written to feel customer-ready for a real mockup and outreach send, with clearer local-service wording, a simple quote path, and FAQ-style copy for homeowners comparing options.
